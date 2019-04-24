@@ -85,6 +85,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 
 #### Community
 
+- [nuxt-vuex-localstorage] (https://github.com/rubystarashe/nuxt-vuex-localstorage) - Make use of local and session storage more efficiently by connecting Vuex and Web storage.
 - [Xui](https://github.com/MetaCorp/xui-module) - Light module to help design websites with Nuxt.
 - [WP-API](https://github.com/yashha/wp-nuxt) - Easy WordPress Api [WP-API](https://github.com/WP-API/node-wpapi) integration for you Nuxt app.
 - [BootstrapVue](https://bootstrap-vue.js.org/docs/#nuxt-js) - Bootstrap v4 components and grid system for Nuxt.js.
